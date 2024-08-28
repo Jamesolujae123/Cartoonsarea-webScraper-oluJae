@@ -36,7 +36,7 @@ const Tip = () => {
           <img className="md:max-w-80" src={animeside1} alt="" />
           <div className="flex flex-col gap-7">
             <span>
-              If you can’t directly download video to your PC, please follow the
+              Currently you can’t directly download video to your PC/Mobile, please follow the
               guidelines below:
             </span>
             <span>Step1: Click the "Download" button.</span>
