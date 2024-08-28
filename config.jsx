@@ -1,5 +1,5 @@
 const config = {
-  baseUrl: "http://localhost:3000",
+  baseUrl: "https://scraper-b0rp.onrender.com/",
 };
 
 export default config;
