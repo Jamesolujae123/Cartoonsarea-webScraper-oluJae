@@ -218,7 +218,7 @@ const Hero = () => {
                     </div>
                     <div>
                       {seasonClicked ? (
-                        <div className="flex flex-col justify-center text-[10px] gap-2">
+                        <div className="flex flex-col justify-center md:text-md text-[10px] gap-2">
                           {season.episoles?.map((episode) => (
                             <div className="flex gap-4" key={episode}>
                               <span>{episode.filename}</span>
