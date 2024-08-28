@@ -124,7 +124,7 @@ const Hero = () => {
         </h1>
       </div>
 
-      <div className="w-[420px] md:w-[70%]">
+      <div className="w-[305px] md:w-[70%]">
         <form onSubmit={searchAnime} className="w-[100%] flex" action="">
           <input
             className="border-4 w-[100%] px-2 py-3 rounded-l-md outline-none border-cyan-600"
